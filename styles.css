@@ -14,13 +14,19 @@ body{
 p{
 text-align: center;
 }
-#image-div{
+#img-div{
+    display: block;
+    max-width: 100%;
     background-color: white;
     padding: 20px;
+    
    
     
 }
-image{
+#image{
+    display: block;
     max-width: 100%;
+    text-align: center;
+    
     
 }
